@@ -90,7 +90,7 @@ $allowed_html = wp_kses_allowed_html( 'post' );
             <div class="container">
                 <div class="outer-box">
                     <div class="copyright-text text-center">
-                        <p><?php echo wp_kses( $options->get( 'copyright_text2', '&copy; Copyright 2021 by <a href="#">vervoer</a>' ), $allowed_html ); ?></p>
+                        <p><?php echo wp_kses( $options->get( 'copyright_text2', '&copy; Copyright 2021 by <a href="#">ilsmtc</a>' ), $allowed_html ); ?></p>
                     </div>
                 </div>    
             </div>    
