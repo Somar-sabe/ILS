@@ -1,0 +1,9 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Sorry, you are not allowed to upload this file type.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Missing Redux option name! Please also enter the Redux option name!
