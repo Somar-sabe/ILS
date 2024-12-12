@@ -581,7 +581,7 @@
     font-weight: 700;
     z-index: 999;
     border-radius: 50%;
-    color: var(--secondary-color);
+    color: #4088BC;
     background-color: var(--primary-color);
     transition: all 500ms ease;
 }
@@ -793,7 +793,7 @@
     height: 306px;
     content: '';
     z-index: -1;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .banner-style-eight .owl-dots{
     position: absolute;
@@ -985,7 +985,7 @@
     margin-bottom: 40px;
 }
 .features-block h4 span{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .features-block p{
     margin-bottom: 20px;

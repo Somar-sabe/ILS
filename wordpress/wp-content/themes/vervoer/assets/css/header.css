@@ -125,8 +125,8 @@
 }
 .main-header .search-box:hover{
     color: var(--white-color);
-    background-color: var(--secondary-color);
-    border-color: var(--secondary-color);
+    background-color: #4088BC;
+    border-color: #4088BC;
 }
 /* End Search Popup */
 
@@ -311,7 +311,7 @@
     display: inline-block;
     cursor: pointer;
     color: var(--white-color);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     border-radius: 50%;
 }
 /* End Header Lower */
@@ -360,7 +360,7 @@
     font-size: 25px;
     line-height: 35px;
     font-weight: 700;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .sticky-header{
     position: fixed;
@@ -451,7 +451,7 @@
     width: 0;
     height: 3px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     -webkit-transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -ms-transition:all 500ms ease;
@@ -465,7 +465,7 @@
 .main-menu .navigation > li.current > a:before,
 .main-menu .navigation > li:hover > a:before{
     width: 100%;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }  
 .main-menu .navigation > li > ul,
 .main-menu .navigation > li > .megamenu{
@@ -537,7 +537,7 @@
     height: 100%;
     content: '';
     z-index: -1;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -639,7 +639,7 @@
     height: 100%;
     content: '';
     z-index: -1;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -731,7 +731,7 @@ visibility: visible;
 }
 .sticky-header .main-menu .navigation > li:hover > a,
 .sticky-header .main-menu .navigation > li.current > a{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Sticky Header Menu **/
 
@@ -1090,7 +1090,7 @@ visibility: visible;
     height: 70px;
     text-align: center;
     line-height: 75px;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 
 .hidden-sidebar .logo {
@@ -1243,7 +1243,7 @@ visibility: visible;
     top: 12px;
     left: 50px;
     font-size: 30px;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .main-header .header-upper .company-info h6{
     font-size: 18px;
@@ -1311,10 +1311,10 @@ visibility: visible;
     color: var(--grey-color-two);
 }
 .main-header.home-four .contact-info li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .main-header.home-four .contact-info li a i{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .hidden-sidebar .main-menu{
     margin-top: 40px;
@@ -1372,7 +1372,7 @@ visibility: visible;
 }
 .main-header.home-five .main-menu .navigation > li.current > a, 
 .main-header.home-five .main-menu .navigation > li:hover > a{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .main-header.home-five .main-menu .navigation > li > a:before{
     display: none;
@@ -1391,7 +1391,7 @@ visibility: visible;
     color: var(--tertiary-color);
 }
 .main-header.home-five .header-right-button a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Main Header Home Five **/
 
@@ -1404,7 +1404,7 @@ visibility: visible;
     border-color: var(--white-color);
 }
 .main-header.home-six .search-box:hover{
-    border-color: var(--secondary-color);
+    border-color: #4088BC;
 }
 .main-header.home-six .header-lower .outer-box{
     background: transparent;
@@ -1418,7 +1418,7 @@ visibility: visible;
 }
 .main-header.home-six .main-menu .navigation > li.current > a, 
 .main-header.home-six .main-menu .navigation > li:hover > a{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .main-header.home-six .main-menu .navigation > li.current > a::before, 
 .main-header.home-six .main-menu .navigation > li:hover > a::before{
@@ -1429,7 +1429,7 @@ visibility: visible;
 }
 .home-six .sticky-header .main-menu .navigation > li:hover > a, 
 .home-six .sticky-header .main-menu .navigation > li.current > a{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Main Header Home Six **/
 
@@ -1455,7 +1455,7 @@ visibility: visible;
 }
 .home-seven .header-lower .main-menu .navigation > li.current > a, 
 .home-seven .header-lower .main-menu .navigation > li:hover > a{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .home-seven .header-lower .search-box{
     color: var(--white-color);
@@ -1464,11 +1464,11 @@ visibility: visible;
     height: 60px;
     line-height: 68px;
     margin-right: 0px;   
-    border-color: var(--secondary-color);
-    background-color: var(--secondary-color);
+    border-color: #4088BC;
+    background-color: #4088BC;
 }
 .home-seven .header-lower .search-box:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
     background-color: transparent;
 }
 /** End Main Header Home Seven **/
@@ -1545,7 +1545,7 @@ visibility: visible;
 }
 .main-header.inner-page .main-menu .navigation > li.current > a,
 .main-header.inner-page .main-menu .navigation > li > a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .main-header.inner-page .main-menu .navigation > li > a:before{
     display: none;

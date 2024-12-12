@@ -133,7 +133,7 @@
     font-size: 35px;
 }
 .company-feature.style-02 .feature-block:hover{
-    border-color: var(--secondary-color);
+    border-color: #4088BC;
 }
 .about-image-colmun{
     padding-right: 80px;
@@ -199,7 +199,7 @@
     line-height: 28px;
 }
 .news-block-two .inner-box .blog-title a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .news-block-two:hover .inner-box{
     padding-bottom: 60px;
@@ -288,7 +288,7 @@
 }
 .post-share-option .social-list .share-icon li a:hover{
     color: var(--white-color);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .feature-block{
     position: relative;
@@ -323,7 +323,7 @@
 .feature-block .feature-inner{
     position: relative;
     z-index: 1;
-    border: 5px solid var(--secondary-color);
+    border: 5px solid #4088BC;
 }
 .feature-block .feature-inner:before{
     position: absolute;
@@ -361,7 +361,7 @@
     display: inline-block;
     transition: .25s;
     overflow: hidden;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .service-block-004 .service-inner:hover .lower-content .icon-box{
     color: var(--white-color);
@@ -385,7 +385,7 @@
     color: var(--white-color);
 }
 .service-block-004 .lower-content h4 a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .project-info{
     padding: 35px 35px 200px;
@@ -412,7 +412,7 @@
     width: 54px;
     padding: 10px;
     transform: translateY(-120%);
-    background: var(--secondary-color);
+    background: #4088BC;
     border-radius: 0px 10px 50px 50px;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
@@ -496,7 +496,7 @@
     height: 0;
     content: '';
     z-index: -1;    
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;

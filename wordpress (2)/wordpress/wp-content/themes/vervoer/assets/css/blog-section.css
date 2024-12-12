@@ -77,7 +77,7 @@
     color: var(--primary-color);
 }
 .news-block-one .inner-box .vertical-text a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End News Block One **/
 
@@ -176,7 +176,7 @@
     color: var(--tertiary-color);
 }
 .news-block-two .inner-box .read-more-btn a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .home-three .news-block-two {
     border-radius: 10px;
@@ -233,7 +233,7 @@
     color: #838383;
 }
 .search-widget .search-form button:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .category-list li a{
     position: relative;
@@ -247,8 +247,8 @@
     border-bottom: 1px solid #E0E0E0;
 }
 .category-list li a:hover{
-    color: var(--secondary-color);
-    border-color: var(--secondary-color);
+    color: #4088BC;
+    border-color: #4088BC;
 }
 .category-list li a i{
     position: absolute;
@@ -340,10 +340,10 @@
     position: absolute;
     left: 0;
     top: 2px;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .news-block-three .post-info li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .news-block-three .lower-content h4 a{
     display: inline-block;
@@ -351,7 +351,7 @@
     color: var(--block-color-two);
 }
 .news-block-three .lower-content h4 a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .news-block-three .lower-content p{
     margin-bottom: 15px;
@@ -364,7 +364,7 @@
     color: var(--block-color-two);
 }
 .news-block-three .lower-content .btn-box a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .blog-details-section .news-block-three .lower-content{
     padding: 0;
@@ -447,8 +447,8 @@
     border: 1px solid #DEDEDE;
 }
 .post-share-option .tags-list li a:hover{
-    color: var(--secondary-color);
-    border-color: var(--secondary-color);
+    color: #4088BC;
+    border-color: #4088BC;
 }
 .post-share-option .social-list li{
     display: inline-block;
@@ -542,7 +542,7 @@
     font-weight: 700;
 }
 .author-box a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .comments-form-area{
     padding: 60px;

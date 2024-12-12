@@ -84,7 +84,7 @@
 }
 .newsletter-form input:focus,
 .newsletter-form input:hover{
-    border-color: var(--secondary-color);
+    border-color: #4088BC;
 }
 .newsletter-form button {
     position: absolute;
@@ -97,7 +97,7 @@
     text-align: center;
     color: var(--white-color);
     text-transform: capitalize;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .newsletter-form button:before{
     position: absolute;
@@ -163,7 +163,7 @@
     color: var(--white-color);
 }
 .copyright-text a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 
 .main-footer.home-four{

@@ -230,7 +230,7 @@ img {
     line-height: 26px;
     font-weight: 400;
     margin-bottom: 10px;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 
 .section-title .title{
@@ -296,7 +296,7 @@ img {
     z-index: 1;
     display: inline-block;
     color: var(--white-color);
-    background: var(--secondary-color);
+    background: #4088BC;
 }
 .button-style-two:before{
     position: absolute;
@@ -307,7 +307,7 @@ img {
     content: '';
     z-index: -1;
     transform: translate(5px, 5px);
-    border: 1px solid var(--secondary-color);
+    border: 1px solid #4088BC;
     transition:all 400ms ease;
     -moz-transition:all 400ms ease;
     -webkit-transition:all 400ms ease;
@@ -330,7 +330,7 @@ img {
     font-weight: 700;
     display: inline-block;
     color: var(--white-color);
-    background: var(--secondary-color);
+    background: #4088BC;
 }
 .button-style-three:before{
     position: absolute;
@@ -341,7 +341,7 @@ img {
     content: '';
     z-index: -1;
     transform: translate(0px, 0px);
-    border: 1px solid var(--secondary-color);
+    border: 1px solid #4088BC;
     transition:all 400ms ease;
     -moz-transition:all 400ms ease;
     -webkit-transition:all 400ms ease;
@@ -472,7 +472,7 @@ img {
     color: var(--white-color);
 }
 .contact-info-two li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .contact-info-two li i{
     width: 40px;
@@ -489,7 +489,7 @@ img {
     background-color: var(--primary-color);
 }
 .contact-info-two li:nth-child(2) i{
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .contact-info-two li:nth-child(3) i{
     background-color: var(--tertiary-color);
@@ -594,8 +594,8 @@ img {
     line-height: 100px;
     text-align: center;
     color: var(--white-color);
-    background-color: var(--secondary-color);
-    border: 1px solid var(--secondary-color);
+    background-color: #4088BC;
+    border: 1px solid #4088BC;
     transition: all 500ms ease;
 }
 .pagination li a:hover,
@@ -753,5 +753,5 @@ blockquote span{
 .nice-select .option:hover, 
 .nice-select .option.focus, 
 .nice-select .option.selected.focus{
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }

@@ -157,7 +157,7 @@
     -o-transition: all 500ms ease;
 }
 .company-about .mail-info a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Company About **/
 
@@ -192,7 +192,7 @@
     height: 230px;
     padding: 15px;
     z-index: 1;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     clip-path:
     polygon(100% 0, 0 0, 0% 100%);
     transition: all 500ms ease;
@@ -304,14 +304,14 @@
     -o-transition: all 500ms ease;
 }
 .service-block-001 .hidden-content .link-button a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Service 001 **/
 
 /** Cta 001 **/
 .cta-001{
     position: relative;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .cta-001 .shape-five{
     position: absolute;
@@ -383,13 +383,13 @@
 .tab-buttons .tab-btn.active-btn,
 .tab-buttons .tab-btn:hover{
     color: var(--white-color);
-    background: var(--secondary-color);
+    background: #4088BC;
 }
 .tab-buttons .tab-btn .icon-one {
     font-size: 30px;
     margin-right: 20px;
     margin-right: 10px;
-    color: var(--secondary-color);
+    color: #4088BC;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -508,7 +508,7 @@
 .calclution-form .option.focus, 
 .calclution-form .option.selected.focus{
 	color: #fff;
-	background: var(--secondary-color);
+	background: #4088BC;
 }
 .calclution-form .nice-select.wide .list{
 	color: #fff;
@@ -554,7 +554,7 @@
     padding: 0px 30px;
     line-height: 55px;
     color: var(--white-color);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .freight-calclution-box .button-style-three{
     padding-left: 70px;
@@ -765,7 +765,7 @@
     width: 2px;
     height: 14px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .work-block-one .inner-box .icon-box .step{
     position: absolute;
@@ -1164,7 +1164,7 @@
     background-color: var(--tertiary-color);
 }
 .home-two .cta-right-content{
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .home-five .cta-right-content{
     background-color: var(--primary-color);
@@ -1338,7 +1338,7 @@
     border-radius: 50%;
     margin-bottom: 10px;
     color: var(--white-color);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .about-content-colmun{
     position: relative;
@@ -1377,7 +1377,7 @@
     color: var(--grey-color-four);
 }
 .about-content-colmun .link-btn a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .feature-block-two{
     position: relative;    
@@ -1512,7 +1512,7 @@
     text-align: center;
     border-radius: 16px;
     z-index: 1;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .service-block-002 .content-box{
     padding-left: 15px;
@@ -1526,7 +1526,7 @@
     color: var(--block-color-two);
 }
 .service-block-002 .content-box h5 a span{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .service-block-002 .content-box h5 a:before{
     position: absolute;
@@ -1680,7 +1680,7 @@
     width: 2px;
     height: 14px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .work-block-two .inner-box .icon-box .step{
     position: absolute;
@@ -1795,7 +1795,7 @@
 }
 .project-block-one .content-box .sub-title,
 .project-block-one .overley-content .sub-title{
-    color: var(--secondary-color);
+    color: #4088BC;
     margin-bottom: 10px;
 }
 .project-block-one .content-box .title,
@@ -1810,7 +1810,7 @@
     -o-transition:all 500ms ease;
 }
 .project-block-one .overley-content .title a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .project-block-one .overley-content{
     position: absolute;
@@ -1843,7 +1843,7 @@
     -o-transition:all 500ms ease;
 }
 .project-block-one:hover .overley-content .link-btn a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Project Section **/
 
@@ -1901,7 +1901,7 @@
     padding-left: 80px;
     line-height: 25px;
     color: var(--white-color);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     box-shadow: none;
 }
 .tracking-tab-section .tab-buttons .tab-btn.active-btn{
@@ -2011,7 +2011,7 @@
     height: 1px;
     width: 48px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .feature-block-03 .content-box p{
     font-size: 16px;
@@ -2073,7 +2073,7 @@
     color: var(--white-color);
     border-radius: 50%;
     display: inline-block;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .feature-list li{
     font-size: 18px;
@@ -2088,7 +2088,7 @@
 .hot-fuature .feature-list li i,
 .hot-service-right .feature-list li i,
 .individual-approach .feature-list li i{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .service-seven .feature-list li i{
     color: var(--white-color);
@@ -2247,7 +2247,7 @@
     color: var(--white-color);
 }
 .cta-section-03 h4 span{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Cta Section 03 **/
 
@@ -2301,7 +2301,7 @@
 }
 .team-block-one .content-box .sub-title,
 .team-block-one .overley-content .sub-title{
-    color: var(--secondary-color);
+    color: #4088BC;
     margin-bottom: 10px;
 }
 .team-block-one .content-box .title,
@@ -2316,7 +2316,7 @@
     -o-transition:all 500ms ease;
 }
 .team-block-one .overley-content .title a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .team-block-one .overley-content{
     position: absolute;
@@ -2353,7 +2353,7 @@
     -o-transition:all 500ms ease;
 }
 .team-block-one:hover .overley-content .social-midea li:hover a{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Team block One **/
 
@@ -2407,7 +2407,7 @@
     color: var(--grey-color-three);
 }
 .team-details-content .info li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .single-progress-box {
     position: relative;
@@ -2479,7 +2479,7 @@
 }
 .accordion-box .accordion .acc-btn.active .icon-outer{
     transform: rotate(45deg);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .accordion-box .accordion .acc-content{
     display:none;
@@ -2534,7 +2534,7 @@
     width: 80px;
     height: 1px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .service-block-003 p{
     margin-bottom: 15px;
@@ -2548,7 +2548,7 @@
     text-align: center;
     border-radius: 50%;
     color: var(--white-color);
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -2631,8 +2631,8 @@
 }
 .freight-tab-section .tabs-box .tab-buttons .tab-btn:hover,
 .freight-tab-section .tabs-box .tab-buttons .tab-btn.active-btn{
-    color: var(--secondary-color);
-    border-color: var(--secondary-color);
+    color: #4088BC;
+    border-color: #4088BC;
 }
 .freight-tab-section .tabs-box .tabs-content{
     padding-top: 50px;
@@ -2661,20 +2661,20 @@
     margin-right: 30px;
 }
 .team-block-two .sub-title{
-    color: var(--secondary-color);
+    color: #4088BC;
     margin-bottom: 10px;
 }
 .team-block-two .title a{
     color: var(--block-color-three);
 }
 .team-block-two .title a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .team-block-two .social-midea li a{
     color: var(--block-color-three);
 }
 .team-block-two .social-midea li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Team Section Style Two **/
 
@@ -2720,7 +2720,7 @@
     margin-bottom: 15px;
 }
 .service-block-three .service-title a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .service-block-three .read-more-btn a{
     display: inline-block;
@@ -2872,7 +2872,7 @@
     line-height: 125px;
     border-radius: 50%;
     display: inline-block;
-    color: var(--secondary-color);
+    color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -2898,7 +2898,7 @@
     width: 48px;
     height: 1px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .service-block-004 .lower-content .text{
     opacity: 0;
@@ -2974,7 +2974,7 @@
 .feature-style-six{
     position: relative;
     padding: 45px 0px;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .feature-block-six{
     display: flex;
@@ -3032,7 +3032,7 @@
     content: '';
     z-index: -1;
     border-radius: 5px;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -3067,7 +3067,7 @@
     padding: 20px;
     font-size: 50px;
     display: block;
-    color: var(--secondary-color);
+    color: #4088BC;
     border-bottom: 1px solid #F2F2F2;
 }
 .service-block-006 .service-inner .icon-box .tag{
@@ -3084,7 +3084,7 @@
     color: var(--block-color-two);
 }
 .service-block-006 .content-box h5 a span{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .service-block-006 .content-box h5 a:hover{
     color: var(--primary-color);
@@ -3108,7 +3108,7 @@
     text-decoration-line: underline;
 }
 .service-006 .link-btn a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Service Style Six **/
 
@@ -3147,7 +3147,7 @@
     border-radius: 50%;
     cursor: pointer;
     padding-left: 10px;
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 .video-section .video-content{
     position: relative;
@@ -3281,7 +3281,7 @@
     background-color: var(--white-color);
 }
 .premium-service-slide .owl-dots .owl-dot.active span{
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 /** End Premium Service**/
 
@@ -3312,7 +3312,7 @@
     align-items: end;   
 }
 .team-block-three .sub-title{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .team-block-three h5 a{
     color: var(--white-color);
@@ -3354,7 +3354,7 @@
     width: 0%;
     height: 4px;
     content: '';
-    background: var(--secondary-color);
+    background: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -3403,7 +3403,7 @@
     color: var(--block-color-two);
 }
 .office-info-box .contact-info-two li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Tab Box Map **/
 
@@ -3936,7 +3936,7 @@
     margin-bottom: 15px;
 }
 .service-block-eight .service-title a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .service-block-eight .text{
     color: var(--white-color);
@@ -3970,7 +3970,7 @@
 }
 .map-section.home-eight .tab-buttons .tab-btn:hover,
 .map-section.home-eight .tab-buttons .tab-btn.active-btn{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .map-section.home-eight .tab-buttons .tab-btn:before{
     display: none;
@@ -4134,7 +4134,7 @@
 }
 .about-content-colmun .featured-button .icon-1{
     font-size: 35px;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .about-content-colmun .featured-button:hover .icon-1{
     color: var(--white-color);
@@ -4216,7 +4216,7 @@
     color: var(--block-color-three);
 }
 .team-block-four .social-midea li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 /** End Team Block Style Four **/
 
@@ -4303,7 +4303,7 @@ h4.sidebabr-title:before{
     width: 60px;
     height: 1px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 /** Sidebar Title **/
 
@@ -4386,7 +4386,7 @@ h4.sidebabr-title:before{
 /** Help Us **/
 .helpus-area {
     background-color: var(--tertiary-color);
-    border-top: 5px solid var(--secondary-color);
+    border-top: 5px solid #4088BC;
 }
 .helpus-area i{
     font-size: 60px;
@@ -4593,7 +4593,7 @@ h4.sidebabr-title:before{
     top: 10px;
     left: 0px;
     font-size: 25px;
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .newslatter-content .email-group input{
     width: 100%;
@@ -4607,7 +4607,7 @@ h4.sidebabr-title:before{
     color: var(--block-color-three);
 }
 .newsletter-popup-inner .checkbox-group a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 
 .contact-page .info-widget .text{
@@ -4645,7 +4645,7 @@ h4.sidebabr-title:before{
     color: var(--block-color-three);
 }
 .contact-page .contact-info-two li a:hover{
-    color: var(--secondary-color);
+    color: #4088BC;
 }
 .asked-any-query .form-group label{
     color: var(--block-color-three);
@@ -4670,7 +4670,7 @@ h4.sidebabr-title:before{
 .asked-any-query .contact-form .form-group input:hover,
 .asked-any-query .contact-form .form-group textarea:focus,
 .asked-any-query .contact-form .form-group textarea:hover{
-    border-color: var(--secondary-color);
+    border-color: #4088BC;
 }
 .asked-any-query .contact-form .form-group textarea{
     height: 170px;
@@ -4775,20 +4775,20 @@ h4.sidebabr-title:before{
     padding-bottom: 0;
 }
 .two .feature-block-two {
-    background-color: var(--secondary-color) !important;
+    background-color: #4088BC !important;
 }
 .two .feature-block-two:before {
-    border-color: var(--secondary-color) !important;
+    border-color: #4088BC !important;
 }
 
 
 
 
 .three .feature-block-two {
-    background-color: var(--secondary-color) !important;
+    background-color: #4088BC !important;
 }
 .three .feature-block-two:before {
-    border-color: var(--secondary-color) !important;
+    border-color: #4088BC !important;
 }
 
 
@@ -4891,7 +4891,7 @@ h4.sidebabr-title:before{
     width: 60px;
     height: 1px;
     content: '';
-    background-color: var(--secondary-color);
+    background-color: #4088BC;
 }
 
 
@@ -5025,11 +5025,11 @@ h4.sidebabr-title:before{
 
 
 .feature-block-two:hover{
-    background-color: var(--secondary-color) !important;
+    background-color: #4088BC !important;
 	transition: all 400ms ease;
 }
 .feature-block-two:hover:before{
-    border-color: var(--secondary-color) !important;
+    border-color: #4088BC !important;
 	transition: all 400ms ease;
 }
 

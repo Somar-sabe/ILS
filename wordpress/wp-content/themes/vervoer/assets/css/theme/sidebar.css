@@ -37,11 +37,11 @@ code,a{
     border-bottom: navajowhite;
 }
 .widget ul li:hover {
-    border-color: var(--secondary-color);
+    border-color: #4088BC;
 	transition: all 500ms ease;
 }
 .widget ul li a:hover {
-    color: var(--secondary-color);
+    color: #4088BC;
 	transition: all 500ms ease;
 }
 
@@ -422,8 +422,8 @@ span.page-numbers.dots {
     border-radius: 5px;
     text-align: center;
     color: var(--white-color);
-    background-color: var(--secondary-color);
-    border: 1px solid var(--secondary-color);
+    background-color: #4088BC;
+    border: 1px solid #4088BC;
     transition: all 500ms ease;
 }
 
