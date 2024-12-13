@@ -8,10 +8,10 @@ p{
  padding-right:0px ; 
 }
 .admin-bar .fixed-header .sticky-header{
-	top:32px;
+	top:16px;
 }
 .admin-bar .fixed-header .sticky-header {
-    top: 32px;
+    top: 16px;
 }
 @media (max-width: 1140px) {
  .admin-bar .header-style-one{
