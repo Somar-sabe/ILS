@@ -837,7 +837,6 @@
     height: 100%;
     content: '';
     z-index: -1;
-    background-color: rgb(16 55 182 / 90%);
 }
 .service-section .owl-nav{
     position: absolute;
