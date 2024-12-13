@@ -218,6 +218,7 @@
     color: transparent;
 }
 .service-block-001 .show-content{
+    height:110vh;
     opacity: 1;
     background-color: #4088BC;
     visibility: visible;
