@@ -40,7 +40,7 @@ blockquote {
     font-weight: 600;
     font-style: italic;
     color: var(--white-color);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 blockquote:before {
     position: absolute;

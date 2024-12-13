@@ -3333,7 +3333,7 @@ body.elementor-editor-active .elementor.elementor-edit-mode .elementor-element.e
   opacity: 0;
   pointer-events: none;
   z-index: 9998;
-  background-color: var(--primary-color);
+  background-color: #4088BC;
   padding: 1px;
   box-sizing: content-box;
   transition: opacity 0.3s, width 0.3s;
@@ -3370,10 +3370,10 @@ body.elementor-editor-active .elementor.elementor-edit-mode .elementor-element.e
   overflow: hidden;
   border-radius: inherit;
   /* Hack to fix transparent `--color` on hover */
-  background: linear-gradient(var(--color), var(--color)), linear-gradient(var(--primary-color), var(--primary-color));
+  background: linear-gradient(var(--color), var(--color)), linear-gradient(#4088BC, #4088BC);
 }
 .e-element-color-picker__swatch:not(:first-child) {
-  border-left: 1px solid var(--primary-color);
+  border-left: 1px solid #4088BC;
 }
 .e-element-color-picker__swatch::before {
   content: attr(data-text);

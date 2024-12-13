@@ -60,7 +60,7 @@
     transition: all 500ms ease;
 }
 .search-popup .close-search:hover {
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .search-popup .search-form {
     position: relative;
@@ -681,7 +681,7 @@ visibility: visible;
 }
 .main-menu .navigation li:hover .dropdown-btn,
 .main-menu .navigation li.current .dropdown-btn{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .main-menu .navigation li ul li.dropdown .dropdown-btn{
     top: 12px;
@@ -995,9 +995,9 @@ visibility: visible;
     right: 30px;
     font-size: 20px;
     z-index: 99;
-    color: var(--primary-color);
+    color: #4088BC;
     background-color: var(--white-color);
-    border: 1px solid var(--primary-color);
+    border: 1px solid #4088BC;
     border-radius: 50%;
     text-align: center;
     cursor: pointer;
@@ -1009,7 +1009,7 @@ visibility: visible;
 }  
 .scroll-top:hover{
     color: var(--white-color);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .scroll-top:before,
 .scroll-top:after {
@@ -1026,8 +1026,8 @@ visibility: visible;
     animation-delay: .9s;
     content: "";
     position: absolute;
-    -webkit-box-shadow: 0 0 0 0 var(--primary-color);
-    box-shadow: 0 0 0 0 var(--primary-color);
+    -webkit-box-shadow: 0 0 0 0 #4088BC;
+    box-shadow: 0 0 0 0 #4088BC;
     -webkit-animation: ripple 3s infinite;
     animation: ripple 3s infinite;
     -webkit-transition: all .4s ease;
@@ -1213,7 +1213,7 @@ visibility: visible;
 .main-header.home-two .header-outer-box{
     padding: 15px 42px;
     border-radius: 0 0 20px 20px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .main-header .header-upper .company-info{
     display: inline-flex;
@@ -1557,7 +1557,7 @@ visibility: visible;
         border-radius: 0;
     }
     .header-top-one{
-        background-color: var(--primary-color);
+        background-color: #4088BC;
     }
     .main-header .side-menu-nav{
         display: none;
@@ -1620,7 +1620,7 @@ visibility: visible;
     }
     .menu-area .mobile-nav-toggler{
         padding: 15px;
-        background-color: var(--primary-color);
+        background-color: #4088BC;
     }
     .main-header .header-upper .company-info li:before{
         display: none;
@@ -1779,7 +1779,7 @@ visibility: visible;
         padding: 15px;
         text-align: center;
         color: var(--white-color);
-        background-color: var(--primary-color);
+        background-color: #4088BC;
     }
     .menu-area .mobile-nav-toggler .icon-bar{
         display: block;

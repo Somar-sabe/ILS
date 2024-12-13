@@ -104,7 +104,7 @@
     margin-right: 100px;
 }
 .company-about .section-title .title span {
-    /* color: var(--primary-color); */
+    /* color: #4088BC; */
 }
 .company .feature-block{
     max-width: unset;
@@ -219,7 +219,7 @@
 }
 .service-block-001 .show-content{
     opacity: 1;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     visibility: visible;
     transition: all 1000ms ease;
     -moz-transition: all 1000ms ease;
@@ -445,7 +445,7 @@
     position: relative;
     padding: 65px 50px;
     margin-right: 100px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .freight-calclution-box h4{    
     color: var(--white-color);
@@ -524,7 +524,7 @@
     position: relative;
     padding: 65px 50px;
     margin-right: 100px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .time-traking-box h4{    
     color: var(--white-color);
@@ -640,7 +640,7 @@
     position: relative;
     padding: 65px 50px;
     margin-right: 100px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .online-support h4{    
     color: var(--white-color);
@@ -861,7 +861,7 @@
     text-align: center;
     margin: 1px;
     color: var(--white-color);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -907,7 +907,7 @@
     color: var(--block-color-three);
 }
 .service-section .service-text h5 a:hover{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .service-section .service-text p{
     margin-bottom: 15px;
@@ -924,7 +924,7 @@
     -o-transition:all 500ms ease;
 }
 .service-section .service-text .link-button:hover{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 /** End Service Section **/
 
@@ -951,7 +951,7 @@
     text-align: center;
     z-index: 99;
     transform: rotate(90deg);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -975,7 +975,7 @@
     cursor: pointer;
     transform: rotate(90deg);
     z-index: 99;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -1016,7 +1016,7 @@
     position: relative;
     padding: 80px 60px;
     margin-bottom: 60px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .testimonials-block .inner-box:before{
     position: absolute;
@@ -1025,7 +1025,7 @@
     width: 30px;
     height: 49px;
     content: '';
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     clip-path: polygon(100% 0, 0 0, 100% 100%);
 }
 .testimonials-block .text{
@@ -1104,7 +1104,7 @@
 .client-section-seven{
     position: relative;
     padding: 80px 0px 50px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .client-section-seven .client-logo {
     border-radius: 10px;
@@ -1138,8 +1138,8 @@
     border-radius: 50%;
     cursor: pointer;
     color: var(--white-color);
-    border: 1px solid var(--primary-color);
-    background-color: var(--primary-color);
+    border: 1px solid #4088BC;
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -1151,7 +1151,7 @@
     background-color: var(--tertiary-color);
 }
 .cta-left-image .icon-box:hover{
-    color: var(--primary-color);
+    color: #4088BC;
     background-color: var(--white-color);
 }
 .cta-right-content{
@@ -1166,7 +1166,7 @@
     background-color: #4088BC;
 }
 .home-five .cta-right-content{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .cta-right-content h4{
     color: var(--white-color);
@@ -1277,7 +1277,7 @@
     width: 510px;
     height: 680px;
     z-index: -1;
-    border: 30px solid var(--primary-color);
+    border: 30px solid #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -1315,7 +1315,7 @@
     margin-right: 10px;
     margin-top: 5px;
     color: var(--white-color);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .about-image-colmun .add-text-two{
     position: absolute;
@@ -1398,22 +1398,22 @@
     border: 1px solid var(--grey-color-four);
 }
 .colmun:nth-child(1) .feature-block-two{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .colmun:nth-child(1) .feature-block-two:before{
-    border-color: var(--primary-color);
+    border-color: #4088BC;
 }
 .colmun:nth-child(2) .feature-block-two{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .colmun:nth-child(2) .feature-block-two:before{
-    border-color: var(--primary-color);
+    border-color: #4088BC;
 }
 .colmun:nth-child(3) .feature-block-two{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .colmun:nth-child(3) .feature-block-two:before{
-    border-color: var(--primary-color);
+    border-color: #4088BC;
 }
 .feature-block-two .icon-box{
     margin-bottom: 20px;
@@ -1560,7 +1560,7 @@
     width: 50%;
     float: right;
     padding: 130px 110px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .quote-section .right-side .shape{
     position: absolute;
@@ -1904,7 +1904,7 @@
     box-shadow: none;
 }
 .tracking-tab-section .tab-buttons .tab-btn.active-btn{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .tracking-tab-section .tab-buttons li i{
     position: absolute;
@@ -1913,7 +1913,7 @@
 }
 .tracking-tab-section .tabs-content{
     padding: 50px 70px 70px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .tracking-tab-section .tabs-content h4{
     color: var(--white-color);
@@ -2388,8 +2388,8 @@
 }
 .team-details-image-box .social-links li a:hover{
     color: var(--white-color);
-    background-color: var(--primary-color);
-    border-color: var(--primary-color);
+    background-color: #4088BC;
+    border-color: #4088BC;
 }
 .team-details-content p{
     color: var(--grey-color-three);
@@ -2555,7 +2555,7 @@
     -o-transition:all 500ms ease;
 }
 .service-block-003 .icon-box a:hover{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .service-block-003 .border-left{
     position: absolute;
@@ -2727,7 +2727,7 @@
     color: var(--tertiary-color);
 }
 .service-block-three .read-more-btn a:hover{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 /** End Service Section Style Three **/
 
@@ -2758,7 +2758,7 @@
 .location-map .info-box i{
     font-size: 24px;
     margin-right: 10px;
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .location-map .info-box strong{
     font-size: 20px;
@@ -2946,7 +2946,7 @@
 .provide-service-left .count-box{
     font-size: 40px;
     line-height: 30px;
-    color: var(--primary-color);
+    color: #4088BC;
     margin-bottom: 20px;
     font-weight: 700;
 }
@@ -3009,7 +3009,7 @@
 }
 .tracking-form input:focus,
 .tracking-form input:hover{
-    border-color: var(--primary-color);
+    border-color: #4088BC;
 }
 .tracking-form button {
     position: absolute;
@@ -3020,7 +3020,7 @@
     color: var(--white-color);
     text-transform: capitalize;
     padding: 12px 30px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .tracking-form button:before {
     position: absolute;
@@ -3086,7 +3086,7 @@
     color: #4088BC;
 }
 .service-block-006 .content-box h5 a:hover{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .service-block-006 .content-box h5 a:before{
     position: absolute;
@@ -3152,7 +3152,7 @@
     position: relative;
     padding: 150px 80px;
     color: var(--white-color);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .video-section .video-content h4{
     margin-bottom: 40px;
@@ -3238,7 +3238,7 @@
 }
 .premium-service-block .content-box{
     padding: 40px 75px 80px;    
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .premium-service-block .content-box i{
     font-size: 60px;
@@ -3409,7 +3409,7 @@
 /** Service Seven **/
 .service-seven{
     position: relative;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .service-seven .shape{
     position: absolute;
@@ -3448,7 +3448,7 @@
     padding-right: 100px;
     border-radius: 46.5px;
     display: inline-block;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     transition:all 500ms ease;
     -moz-transition:all 500ms ease;
     -webkit-transition:all 500ms ease;
@@ -3456,7 +3456,7 @@
     -o-transition:all 500ms ease;
 }
 .service-seven-inner .colmun:nth-child(1) .inner-text{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .service-seven-inner .colmun:nth-child(2) .inner-text {
     /* background-color: var(--tertiary-color); */
@@ -3676,7 +3676,7 @@
 .cta-style-three{
     position: relative;
     z-index: 1;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .cta-style-three .container-fluid{
     padding: 0;
@@ -3947,7 +3947,7 @@
     color: var(--tertiary-color);
 }
 .service-block-eight .read-more-btn a:hover{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 /** End Service Style Three **/
 
@@ -4053,7 +4053,7 @@
 .why-choose-us-section .inner-page {
     border-radius: 10px;
     /* padding: 85px 60px 85px 70px; */
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .why-choose-us-section .inner-page .section-title{
     margin-right: -10px;
@@ -4129,7 +4129,7 @@
 }
 .about-content-colmun .featured-button:hover{
     color: var(--white-color);
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .about-content-colmun .featured-button .icon-1{
     font-size: 35px;
@@ -4473,7 +4473,7 @@ h4.sidebabr-title:before{
 .project-info{
     position: relative;
     padding: 60px 40px 250px;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .project-info h4{
     margin-bottom: 20px;
@@ -5075,7 +5075,7 @@ h4.sidebabr-title:before{
 
 
 .home-five .cta-right-content {
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .form-group p {
     margin-bottom: 0;

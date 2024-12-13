@@ -179,7 +179,7 @@
     color: var(--white-color);
 }
 .main-footer.home-seven{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .main-footer.home-seven .widget-title h5:before{
     background-color: rgb(255 255 255 / 30%);

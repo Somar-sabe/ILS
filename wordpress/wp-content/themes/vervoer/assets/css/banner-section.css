@@ -424,7 +424,7 @@
     left: 0;
     font-size: 40px;
     margin-right: 10px;
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .banner-home-five .content-box .title{
     font-size: 100px;
@@ -582,7 +582,7 @@
     z-index: 999;
     border-radius: 50%;
     color: #4088BC;
-    background-color: var(--primary-color);
+    background-color: #4088BC;
     transition: all 500ms ease;
 }
 .banner-style-six .owl-nav button:hover{
@@ -877,7 +877,7 @@
 .relible-service .count-box{
     font-size: 40px;
     line-height: 30px;
-    color: var(--primary-color);
+    color: #4088BC;
     margin-bottom: 20px;
     font-weight: 700;
 }

@@ -263,7 +263,7 @@ img {
     font-weight: 700;
     display: inline-block;
     color: var(--white-color);
-    background: var(--primary-color);
+    background: #4088BC;
 }
 .button-style-one:before{
     position: absolute;
@@ -274,7 +274,7 @@ img {
     content: '';
     z-index: -1;
     transform: translate(5px, 5px);
-    border: 1px solid var(--primary-color);
+    border: 1px solid #4088BC;
     transition:all 400ms ease;
     -moz-transition:all 400ms ease;
     -webkit-transition:all 400ms ease;
@@ -365,7 +365,7 @@ img {
     z-index: 1;
     display: inline-block;
     color: var(--white-color);
-    background: var(--primary-color);
+    background: #4088BC;
 }
 .button-style-four:before{
     position: absolute;
@@ -376,7 +376,7 @@ img {
     content: '';
     z-index: -1;
     transform: translate(0px, 0px);
-    border: 1px solid var(--primary-color);
+    border: 1px solid #4088BC;
     transition:all 400ms ease;
     -moz-transition:all 400ms ease;
     -webkit-transition:all 400ms ease;
@@ -486,7 +486,7 @@ img {
     display: inline-block;    
 }
 .contact-info-two li:nth-child(1) i{
-    background-color: var(--primary-color);
+    background-color: #4088BC;
 }
 .contact-info-two li:nth-child(2) i{
     background-color: #4088BC;
@@ -545,7 +545,7 @@ img {
 }  
 .page-title .bread-crumb li a:hover,
 .page-title .bread-crumb li.current{
-    color: var(--primary-color);
+    color: #4088BC;
 }  
 .page-title .bread-crumb li:before{
     position: absolute;
@@ -565,7 +565,7 @@ img {
     margin-bottom: 10px;
 }
 .page-title .content-box span{
-    color: var(--primary-color);
+    color: #4088BC;
 }
 .page-title .content-box p{
     color: var(--white-color);
@@ -601,8 +601,8 @@ img {
 .pagination li a:hover,
 .pagination li a.current{
     color: #fff;
-    background-color: var(--primary-color);
-    border: 1px solid var(--primary-color);
+    background-color: #4088BC;
+    border: 1px solid #4088BC;
 }
 /** End Pagination **/
 
@@ -638,7 +638,7 @@ img {
 }  
 .form-group input:focus,
 .form-group textarea:focus{
-    border-color: var(--primary-color);
+    border-color: #4088BC;
 }
 /** End Defult Form **/
 
@@ -652,7 +652,7 @@ img {
     padding: 5px 0px;
 }
 .featurs-list li i{
-    color: var(--primary-color);
+    color: #4088BC;
     margin-right: 8px;
 }
 /** End Featurs List **/
@@ -673,7 +673,7 @@ img {
 }
 .blog-info-list li i{
     margin-right: 5px;
-    color: var(--primary-color);
+    color: #4088BC;
 }
 /** End Blog Info List**/
 
